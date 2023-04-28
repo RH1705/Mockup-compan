@@ -28,7 +28,7 @@ h2 {
 
 header {
   min-height: 600px;
-  background-image: url(/asset/img/header-bg.png);
+  background-image: url(../asset/img/header-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
